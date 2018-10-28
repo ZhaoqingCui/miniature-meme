@@ -50,7 +50,7 @@ Create a system to manage a libray's book inventory. We should be able to look u
 
 
 4. User Interface: Describe a user interface for your program. Use text menus or a simple graphic user interface.
-* A search bar at the top. Every page can display three books. For every book, in the middle, the top line of text can be the book title, number of copies available, then on the next line the book's author, the location of it, the genre, and page count, below that a brief summary of the book. Before the user inputs any information, the page will display the top 3 most frequent check-out books. After the user inputs any information, the page will display filtered information.
+* A search bar at the top. Every page can display three books. For every book, the top line of text can be the book title, number of copies available, then on the next line the book's author, the location of it, the genre, and page count, below that a brief summary of the book. Before the user inputs any information, the page will display the top 3 most frequent check-out books. After the user inputs any information, the page will display filtered information.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
