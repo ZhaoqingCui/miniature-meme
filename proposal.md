@@ -34,37 +34,31 @@ Create a system to manage a libray's book inventory. We should be able to look u
 ## Questions to answer for Exercise #2
 
 1. 
-*Library Managment Software
+* Library Managment Software
 
 
 2.  
-*All information about the book which the user is looking for. 
-*Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count.
-*Example: Unavailable, Learning a complex new language is no easy task especially when its an object-oriented computer programming language like Java. This resource combines puzzles, strong visuals, mysteries, and soul-searching interviews to offer a complete introduction to object-oriented programming and Java, Kathy Sierra, Being Relocated, Computer Science, 689
+* All information about the book which the user is looking for. 
+* Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count.
+* Example: Unavailable, Learning a complex new language is no easy task especially when its an object-oriented computer programming language like Java. This resource combines puzzles, strong visuals, mysteries, and soul-searching interviews to offer a complete introduction to object-oriented programming and Java, Kathy Sierra, Being Relocated, Computer Science, 689
 
 
 3. 
-*ISBN number of a book and other relavent information (Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count). An adminstrator should enter the books and its information into the hash table which a customer will then be able to see. 
+* ISBN number of a book and other relavent information (Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count). An adminstrator should enter the books and its information into the hash table which a customer will then be able to see. 
 * Example: 978-0201072563, 5, This book is about the creation and analysis of efficient data structures. Because many different languages approach the construction of data structures differently, we use pseudo-code so that you can translate the code into your own language, Thomas A. Standish, Space Science Library (Schwerdtfeger) Stacks QA76.9 D35 S73, Computer Science, 447
 
 
 4. 
-*A search bar at the top. In the middle, the top line of text can be the book title, then on the next line the book's author, below that a brief summary of the book.
+* A search bar at the top. In the middle, the top line of text can be the book title, then on the next line the book's author, below that a brief summary of the book. Before the user inputs any information, the page will display top 3 most frequent check-out books. After the user inputs any information, the page will display filtered information about the search.
 
 
 5. 
-BookNode - holds information about the number of copies, the number of in stock copies, the author, the summary, the books location, and the ISBN.
-
-Library - hashtable based, store and check out all books
-
-Main - loads the data structure from disk, and enters the GUI
-
-Button - an object that we can attach various actions to.
-
-TextField - an object that the user can enter textual information. (Search bar, book entry, etc.)
-
-Window - an object that will hold the other graphical compnents and other state information like what mode the program is in (Admin or Customer), and the table containing the inventory of books.
-
-Test - to test the functionality
+* BookNode - holds information about the number of copies, the number of in stock copies, the author, the summary, the books location, and the ISBN.
+* Library - hashtable based, store and check out all books
+* Main - loads the data structure from disk, and enters the GUI
+* Button - an object that we can attach various actions to.
+* TextField - an object that the user can enter textual information. (Search bar, book entry, etc.)
+* Window - an object that will hold the other graphical compnents and other state information like what mode the program is in (Admin or Customer), and the table containing the inventory of books.
+* Test - to test the functionality
 
 
