@@ -33,26 +33,27 @@ Create a system to manage a libray's book inventory. We should be able to look u
 
 ## Questions to answer for Exercise #2
 
-1. 
+1. Name: Give your project proposal a name 
 * Library Managment Software
 
 
-2.  
+2. Output: Describe the output your program will produce. Include an example format of the output produced.
 * All information about the book which the user is looking for. 
 * Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count.
 * Example: Unavailable, Learning a complex new language is no easy task especially when its an object-oriented computer programming language like Java. This resource combines puzzles, strong visuals, mysteries, and soul-searching interviews to offer a complete introduction to object-oriented programming and Java, Kathy Sierra, Being Relocated, Computer Science, 689
+* Example: 
 
 
-3. 
+3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 * ISBN number of a book and other relevant information (Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count). An administrator should enter the books and its information into the hash table which a customer will then be able to see. 
 * Example: 978-0201072563, 5, This book is about the creation and analysis of efficient data structures. Because many different languages approach the construction of data structures differently, we use pseudo-code so that you can translate the code into your own language, Thomas A. Standish, Space Science Library (Schwerdtfeger) Stacks QA76.9 D35 S73, Computer Science, 447
 
 
-4. 
+4. User Interface: Describe a user interface for your program. Use text menus or a simple graphic user interface.
 * A search bar at the top. Every page can display three books. For every book, in the middle, the top line of text can be the book title, number of copies available, then on the next line the book's author, the location of it, the genre, and page count, below that a brief summary of the book. Before the user inputs any information, the page will display the top 3 most frequent check-out books. After the user inputs any information, the page will display filtered information.
 
 
-5. 
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 * BookNode - holds information about the number of copies, the number of in-stock copies, the author, the summary, the location of the book, and the ISBN.
 * Library - hashtable based, store and check out all books
 * Main - loads the data structure from disk, and enters the GUI
