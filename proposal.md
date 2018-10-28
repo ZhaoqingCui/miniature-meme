@@ -48,6 +48,8 @@ Create a system to manage a libray's book inventory. We should be able to look u
 5. 
 BookNode - holds information about the number of copies, the number of in stock copies, the author, the summary, the books location, and the ISBN.
 
+Library - hashtable based, store and check out all books
+
 Main - loads the data structure from disk, and enters the GUI
 
 Button - an object that we can attach various actions to.
