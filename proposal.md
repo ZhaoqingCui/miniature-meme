@@ -39,9 +39,9 @@ Create a system to manage a libray's book inventory. We should be able to look u
 
 2. Output: Describe the output your program will produce. Include an example format of the output produced.
 * All information about the book which the user is looking for. 
-* Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count.
-* Example: Unavailable, Learning a complex new language is no easy task especially when its an object-oriented computer programming language like Java. This resource combines puzzles, strong visuals, mysteries, and soul-searching interviews to offer a complete introduction to object-oriented programming and Java, Kathy Sierra, Being Relocated, Computer Science, 689
-* Example: 
+* Book tile, number of copies available, a brief summary of it, the author, the location of it, the genre, and page count.
+* Example: Head First Java, Unavailable, Learning a complex new language is no easy task especially when its an object-oriented computer programming language like Java. This resource combines puzzles, strong visuals, mysteries, and soul-searching interviews to offer a complete introduction to object-oriented programming and Java, Kathy Sierra, Being Relocated, Computer Science, 689
+* Example: Red : an anthology of contemporary Black British poetry, 10, Inspired by the word "red," this collection of poems written by black British writers--including both established authors and new, exciting poets--explores the subjects and ideas stirred by a single trigger, from the word's usual associations with blood, violence, passion, and anger, as well as with sensuality and sexuality, to more surprising interpretations such as the link to a particular mood, the quality of light in the sky, the color of skin, and the sound of a song. This remarkable compilation succeeds in generating poems that find an intriguing resonance with each other while also revealing images and themes unique to the individual poets, Kwame Dawes, Memorial Library Stacks Regular Size Shelving PR1178 B55 R43 2010, Poetry, 252
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
