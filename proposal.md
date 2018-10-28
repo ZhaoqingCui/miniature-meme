@@ -48,7 +48,8 @@ Create a system to manage a libray's book inventory. We should be able to look u
 * Example: 978-0201072563, 5, This book is about the creation and analysis of efficient data structures. Because many different languages approach the construction of data structures differently, we use pseudo-code so that you can translate the code into your own language, Thomas A. Standish, Space Science Library (Schwerdtfeger) Stacks QA76.9 D35 S73, Computer Science, 447
 
 
-4. A search bar at the top. In the middle, the top line of text can be the book title, then on the next line the book's author, below that a brief summary of the book.
+4. 
+*A search bar at the top. In the middle, the top line of text can be the book title, then on the next line the book's author, below that a brief summary of the book.
 
 
 5. 
