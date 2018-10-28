@@ -13,7 +13,7 @@ We will discuss our schedules and decide together who should complete a given ta
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-We'll check in with them a week before the deadline, and then again 2 or 3 days before the due date.
+We'll check in with them a week before the deadline, and then again 2 or 3 days before the due date to make sure they're on trach to complete it on time.
 
 
 ## How will will communicate difficulties with a task assigned to us
