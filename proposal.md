@@ -46,10 +46,14 @@ Create a system to manage a libray's book inventory. We should be able to look u
 
 
 5. 
-*BookNode - holds information about the number of copies, the number of in stock copies, the author, the summary, the books location, and the ISBN.
-*Main - loads the data structure from disk, and enters the GUI
-*Button - an object that we can attach various actions to.
-*TextField - an object that the user can enter textual information. (Search bar, book entry, etc.)
-*Window - an object that will hold the other graphical compnents and other state information like what mode the program is in (Admin or Customer), and the table containing the inventory of books.
+BookNode - holds information about the number of copies, the number of in stock copies, the author, the summary, the books location, and the ISBN.
+
+Main - loads the data structure from disk, and enters the GUI
+
+Button - an object that we can attach various actions to.
+
+TextField - an object that the user can enter textual information. (Search bar, book entry, etc.)
+
+Window - an object that will hold the other graphical compnents and other state information like what mode the program is in (Admin or Customer), and the table containing the inventory of books.
 
 
