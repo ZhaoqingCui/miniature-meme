@@ -9,11 +9,10 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1: ZhaoqingCui        name 1: ZHAOQING CUI
        * GitHub username 2: Mitchell-Kitzinger name 2: MITCHELL LAWRENCE KITZINGER
-       * GitHub username 3:       name 3:
-       * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
+       * GitHub username 3: akkalj: name 3: Justin Akkal
+       * GitHub username 4: cmartinez9      name 4: Christian Martinez
    * When did you complete this exercise? 
-   October 21, 2018
+   October 28, 2018
    * How long did it take your team to complete this exercise? 
    30 minutes
 
