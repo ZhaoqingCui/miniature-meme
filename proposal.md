@@ -29,19 +29,23 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Create a system to manage a libray's book inventory. We should be able to look up a book by ISBN number, add new books, remove books, and check books out. This information could be stored in hash table. The table will also keep track of the number of books in stock. In Main.java we can load the data structure from disk, and enter into the GUI part of the program.
+Create a system to manage a libray's book inventory. We should be able to look up a book by ISBN number, add new books, remove books, and check books out. This information could be stored in hash table. The table will also keep track of the number of books in stock. In Main.java we can load the data structure from disk, and enter into the GUI part of the program. Uses can find a book by searching by book title, author's name, ISBN.
 
 ## Questions to answer for Exercise #2
 
-1. Library Managment Software
+1. 
+*Library Managment Software
 
 
-2. All information about the book which the user is looking for. 
+2.  
+*All information about the book which the user is looking for. 
+*Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count.
+*Example: Unavailable, Learning a complex new language is no easy task especially when its an object-oriented computer programming language like Java. This resource combines puzzles, strong visuals, mysteries, and soul-searching interviews to offer a complete introduction to object-oriented programming and Java, Kathy Sierra, Being Relocated, Computer Science, 689
 
-Number of copies availible, a brief summary of it, the author, the location of it, the genre, and page count.
 
-
-3. ISBN number of a book. An adminstrator will enter the books and its information into the hash table which a customer will then be able to see. Search by book title, author's name. (To be implemented later)
+3. 
+*ISBN number of a book and other relavent information (Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count). An adminstrator should enter the books and its information into the hash table which a customer will then be able to see. 
+* Example: 978-0201072563, 5, This book is about the creation and analysis of efficient data structures. Because many different languages approach the construction of data structures differently, we use pseudo-code so that you can translate the code into your own language, Thomas A. Standish, Space Science Library (Schwerdtfeger) Stacks QA76.9 D35 S73, Computer Science, 447
 
 
 4. A search bar at the top. In the middle, the top line of text can be the book title, then on the next line the book's author, below that a brief summary of the book.
