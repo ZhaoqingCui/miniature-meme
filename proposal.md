@@ -33,32 +33,27 @@ Create a system to manage a libray's book inventory. We should be able to look u
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)
+1. 
 Library Managment Software
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. 
 Number of copies availible, a brief summary of it, the author, the location of it, the genre, and page count.
 
 
-3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
+3. 
 ISBN number of a book. An adminstrator will enter the books and its information into the hash table which a customer will then be able to see. Search by book title, author's name. (To be implemented later)
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+4. 
 A search bar at the top. In the middle, the top line of text can be the book title, then on the next line the book's author, below that a brief summary of the book.
 
 
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+5. 
 BookNode - holds information about the number of copies, the number of in stock copies, the author, the summary, the books location, and the ISBN.
 Main - loads the data structure from disk, and enters the GUI
 Button - an object that we can attach various actions to.
 TextField - an object that the user can enter textual information. (Search bar, book entry, etc.)
 Window - an object that will hold the other graphical compnents and other state information like what mode the program is in (Admin or Customer), and the table containing the inventory of books.
 
-
-Name each interface or class and briefly describe its function or purpose.
-
-
-## Edit and Submit this file and any figures referenced by this document.
 
