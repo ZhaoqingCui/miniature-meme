@@ -33,20 +33,16 @@ Create a system to manage a libray's book inventory. We should be able to look u
 
 ## Questions to answer for Exercise #2
 
-1. 
-Library Managment Software
+1. Library Managment Software
 
 
-2. 
-Number of copies availible, a brief summary of it, the author, the location of it, the genre, and page count.
+2. Number of copies availible, a brief summary of it, the author, the location of it, the genre, and page count.
 
 
-3. 
-ISBN number of a book. An adminstrator will enter the books and its information into the hash table which a customer will then be able to see. Search by book title, author's name. (To be implemented later)
+3. ISBN number of a book. An adminstrator will enter the books and its information into the hash table which a customer will then be able to see. Search by book title, author's name. (To be implemented later)
 
 
-4. 
-A search bar at the top. In the middle, the top line of text can be the book title, then on the next line the book's author, below that a brief summary of the book.
+4. A search bar at the top. In the middle, the top line of text can be the book title, then on the next line the book's author, below that a brief summary of the book.
 
 
 5. 
