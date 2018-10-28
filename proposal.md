@@ -36,7 +36,9 @@ Create a system to manage a libray's book inventory. We should be able to look u
 1. Library Managment Software
 
 
-2. Number of copies availible, a brief summary of it, the author, the location of it, the genre, and page count.
+2. All information about the book which the user is looking for. 
+
+Number of copies availible, a brief summary of it, the author, the location of it, the genre, and page count.
 
 
 3. ISBN number of a book. An adminstrator will enter the books and its information into the hash table which a customer will then be able to see. Search by book title, author's name. (To be implemented later)
