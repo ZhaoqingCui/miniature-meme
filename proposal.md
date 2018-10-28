@@ -56,4 +56,6 @@ TextField - an object that the user can enter textual information. (Search bar, 
 
 Window - an object that will hold the other graphical compnents and other state information like what mode the program is in (Admin or Customer), and the table containing the inventory of books.
 
+Test - to test the functionality
+
 
