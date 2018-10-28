@@ -45,8 +45,8 @@ Create a system to manage a libray's book inventory. We should be able to look u
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-* ISBN number of a book and other relevant information (Number of copies available, a brief summary of it, the author, the location of it, the genre, and page count). An administrator should enter the books and its information into the hash table which a customer will then be able to see. 
-* Example: 978-0201072563, 5, This book is about the creation and analysis of efficient data structures. Because many different languages approach the construction of data structures differently, we use pseudo-code so that you can translate the code into your own language, Thomas A. Standish, Space Science Library (Schwerdtfeger) Stacks QA76.9 D35 S73, Computer Science, 447
+* ISBN number of a book and other relevant information (Book title, number of copies available, a brief summary of it, the author, the location of it, the genre, and page count). An administrator should enter the books and its information into the hash table which a customer will then be able to see. 
+* Example: 978-0201072563, Data Structure Techniques, 5, This book is about the creation and analysis of efficient data structures. Because many different languages approach the construction of data structures differently, we use pseudo-code so that you can translate the code into your own language, Thomas A. Standish, Space Science Library (Schwerdtfeger) Stacks QA76.9 D35 S73, Computer Science, 447
 
 
 4. User Interface: Describe a user interface for your program. Use text menus or a simple graphic user interface.
