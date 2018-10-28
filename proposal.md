@@ -1,4 +1,4 @@
-# X-Team 26 Project Proposal Library Managment Software
+# X-Team 26 Library Managment Software
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
