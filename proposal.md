@@ -18,7 +18,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
   ** a main Java program class in a file named Main.java
   
-  ** a custom data structure designed and built by your team
+  ** a custom data structure designed and built by your team  
   
   ** comprehensive testing of individual units
   
